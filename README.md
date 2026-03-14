@@ -28,3 +28,19 @@ StudentManagementSystem/
 │   └── student.sql
 │
 └── README.md
+
+
+## How to Run
+
+1. Clone the repository
+git clone https://github.com/bhushan307x/StudentManagementSystem.git
+2. Open project in IDE (VS Code)
+3. Import MySQL database using student.sql
+4. Run the Main.java file
+
+
+## Output
+Program successfully performs CRUD operations on student data.
+
+## Author
+Bhushan Chaudhari
